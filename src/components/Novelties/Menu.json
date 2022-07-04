@@ -1,0 +1,65 @@
+ [
+    {
+        "id": 1,
+        "image": "images/web-images/Novelties/noveltiesimg01.svg",
+        "category": "vapeproducts",
+        "name": "Villa Puccini Pinot Grigio",
+        "description": "Instead of brown sugar and the sugarcane brandy Cachaça the Licor Beirão is used. Instead of brown sugar and the sugarcane brandy Cachaça the Licor Beirão is used."
+    },
+    {
+        "id": 2,
+        "image": "images/web-images/Novelties/noveltiesimg02.svg",
+        "category": "cellaccessories",
+        "name": "Indomita Reserva Pinot Noir",
+        "description": "Instead of brown sugar and the sugarcane brandy Cachaça the Licor Beirão is used. Instead of brown sugar and the sugarcane brandy Cachaça the Licor Beirão is used."
+    },
+    {
+        "id": 3,
+        "image": "images/web-images/Novelties/noveltiesimg03.svg",
+        "category": "kratom",
+        "name": "Indomita Reserva Pinot Noir",
+        "description": "Instead of brown sugar and the sugarcane brandy Cachaça the Licor Beirão is used. Instead of brown sugar and the sugarcane brandy Cachaça the Licor Beirão is used."
+    },
+    {
+        "id": 4,
+        "image": "images/web-images/Novelties/noveltiesimg04.svg",
+        "category": "fishingproducts",
+        "name": "Licor Beirao",
+        "description": "Instead of brown sugar and the sugarcane brandy Cachaça the Licor Beirão is used. Instead of brown sugar and the sugarcane brandy Cachaça the Licor Beirão is used."
+    },
+    {
+        "id": 5,
+        "image": "images/web-images/Novelties/noveltiesimg05.svg",
+        "category": "tourches",
+        "name": "Taylor's Port",
+        "description": "Instead of brown sugar and the sugarcane brandy Cachaça the Licor Beirão is used. Instead of brown sugar and the sugarcane brandy Cachaça the Licor Beirão is used."
+    },
+    {
+        "id": 6,
+        "image": "images/web-images/Novelties/noveltiesimg06.svg",
+        "category": "healthmedicine",
+        "name": "Villa Puccini Pinot Grigio",
+        "description": "Instead of brown sugar and the sugarcane brandy Cachaça the Licor Beirão is used. Instead of brown sugar and the sugarcane brandy Cachaça the Licor Beirão is used."
+    },
+    {
+        "id": 7,
+        "image": "images/web-images/Novelties/noveltiesimg07.svg",
+        "category": "others",
+        "name": "Portugal, Porto",
+        "description": "Instead of brown sugar and the sugarcane brandy Cachaça the Licor Beirão is used. Instead of brown sugar and the sugarcane brandy Cachaça the Licor Beirão is used."
+    },
+    {
+        "id": 8,
+        "image": "images/web-images/Novelties/noveltiesimg08.svg",
+        "category": "vapeproducts",
+        "name": "Port wine",
+        "description": "Instead of brown sugar and the sugarcane brandy Cachaça the Licor Beirão is used. Instead of brown sugar and the sugarcane brandy Cachaça the Licor Beirão is used."
+    },
+    {
+        "id": 9,
+        "image": "images/web-images/Novelties/noveltiesimg09.svg",
+        "category": "vapeproducts",
+        "name": "Villa Puccini Pinot Grigio",
+        "description": "Instead of brown sugar and the sugarcane brandy Cachaça the Licor Beirão is used. Instead of brown sugar and the sugarcane brandy Cachaça the Licor Beirão is used."
+    }
+]
